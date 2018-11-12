@@ -1,6 +1,6 @@
 # Programming languages ranking
 
-![](Programming-languages-ranking/images/Word_cloud.png)
+![](/images/Word_cloud.png)
 * TIOBE, The Importance of Being Earnest:
 
   https://www.tiobe.com/tiobe-index/
