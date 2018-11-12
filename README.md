@@ -1,4 +1,4 @@
-# Programming-languages-ranking
+# Programming languages ranking
 
 * TIOBE, The Importance of Being Earnest:
 
