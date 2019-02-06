@@ -16,3 +16,7 @@
   
   https://www.slant.co/topics/6620/~python-gui-frameworks-toolkits
  
+ * Developers Survey 2018 Results:
+ 
+   https://www.jetbrains.com/research/python-developers-survey-2018/
+   
