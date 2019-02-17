@@ -1,4 +1,4 @@
-<H1>The most important skills for programmers</H1>
+<H1>The most important skills for programmers :star2: </H1>
 
 1. Curiosity
 2. Creativity
