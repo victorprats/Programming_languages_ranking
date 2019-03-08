@@ -20,3 +20,7 @@
  
    https://www.jetbrains.com/research/python-developers-survey-2018/
    
+  * GitHub trending repositories:
+  
+    https://github.com/trending
+    
