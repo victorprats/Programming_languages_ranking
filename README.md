@@ -24,3 +24,7 @@
   
     https://github.com/trending
     
+ * GitHub Python trending repositories:   
+    
+   https://github.com/trending/python
+    
